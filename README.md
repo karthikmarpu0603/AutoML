@@ -3,6 +3,7 @@
 <h1> Automated Hyperparameter Optimization Using AutoML Techniques </h1>
 
 **Overview**
+
 This repository contains the implementation and analysis of an automated hyperparameter optimization (HPO) system using AutoML techniques. The system aims to efficiently identify the best hyperparameter configurations for various machine learning models and datasets, significantly improving their performance.
 
 **Contents**
