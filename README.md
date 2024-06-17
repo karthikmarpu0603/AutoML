@@ -4,7 +4,7 @@
 
 **Overview:**
 
-This repository contains the implementation and analysis of an automated hyperparameter optimization (HPO) system using AutoML techniques. The system aims to efficiently identify the best hyperparameter configurations for various machine learning models and datasets, significantly improving their performance.
+This repository contains the implementation and analysis of an automated hyperparameter optimization (HPO) system using AutoML techniques. The system aims to efficiently identify the best hyperparameter configurations for various machine learning models and datasets, significantly improving their performance.It includes detailed evaluation metrics such as ROC AUC, cross-validation scores.
 
 **Contents:**
 
@@ -14,11 +14,11 @@ This Jupyter notebook includes the implementation of the automated HPO system. I
 
 2. *Random search vs Submitted model vs Hyperopt scores.ipynb*:
 
-This Jupyter notebook provides a comparative analysis of different HPO methods, including random search, the submitted model, and Hyperopt. It includes detailed evaluation metrics such as ROC AUC, cross-validation scores, and learning rate distribution curves.
+This Jupyter notebook provides a comparative analysis of different HPO methods, including random search, the submitted model, and Hyperopt. It also includes detailed evaluation metrics such as ROC AUC, cross-validation scores, and learning rate distribution curves.
 
 3. *AutoML.ipynb*:
 
-This Jupyter notebook is simply combination of the above two files. The above two files are integrated in such a way that the results of those two files can be obtained from here.
+This Jupyter notebook is simply combination of the above two files.It includes the implementation of the automated HPO system and a comparative analysis of different HPO methods. The above two files are integrated in such a way that the results of those two files can be obtained from here.It also includes detailed evaluation metrics such as ROC AUC, cross-validation scores, and learning rate distribution curves.
 
 4. *AutoML.pdf*: 
 
